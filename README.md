@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 <b>Core technologies:</b>
 
-![Java](https://img.shields.io/badge/Java-1_year-blue)
+![Java](https://img.shields.io/badge/Java-1_year-yellow)
 
 <b>Abilities:</b>
 
@@ -31,11 +31,11 @@ ________________________________________________________________________________
 
 <b>Skills:</b>
 
-![Channel Management](https://img.shields.io/badge/Channel_Management-95%25-blue)
-![Customer Service](https://img.shields.io/badge/Customer_Service-95%25-blue)
-![Forecasting](https://img.shields.io/badge/Forecasting-80%25-blue)
-![Marketing Strategy](https://img.shields.io/badge/Marketing_Strategy-90%25-blue)
-![Analysis](https://img.shields.io/badge/Analysis-95%25-blue)
+![Channel Management](https://img.shields.io/badge/Channel_Management-95%25-green)
+![Customer Service](https://img.shields.io/badge/Customer_Service-95%25-green)
+![Forecasting](https://img.shields.io/badge/Forecasting-80%25-green)
+![Marketing Strategy](https://img.shields.io/badge/Marketing_Strategy-90%25-green)
+![Analysis](https://img.shields.io/badge/Analysis-95%25-green)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FSEtoIT&hide=stars,prs,issues,contribs)
 
