@@ -1,5 +1,5 @@
 ## Hi there! 👋, My name is Andrei. Welcome! :v:
-National Service Manager of Medical Devices is transferring to Java Backend Developer
+National Sales Manager of Medical Devices is transferring to Java Backend Developer
 
 <p><b>About me:</b>
   
