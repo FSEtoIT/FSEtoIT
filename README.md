@@ -1,9 +1,9 @@
 ## Hi there! 👋, My name is Andrei. Welcome! :v:
-Channel Service Manager of Medical Devices is transferring to Java Backend Developer
+National Service Manager of Medical Devices is transferring to Java Backend Developer
 
 <p><b>About me:</b>
   
-- I am 37 y.o. Service Channel Manager<br>
+- I am 37 y.o. National Sales Manager<br>
 - Have been baited by IT solutions for real business :suspect:<br>
 - Learning Java at [Job4j](https://job4j.ru/) ☕<br>
 - Magister degree of Biomedical Engineering in MIREA — RUSSIAN TECHNOLOGICAL UNIVERSITY. 🏢
